@@ -9,7 +9,7 @@
 ### I code i
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 ### IDE and Tools I Use
- <img width="100" height="100" src="https://img.icons8.com/stickers/100/selenium-test-automation.png" alt="selenium-test-automation"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+ <img width="100" height="100" src="https://img.icons8.com/stickers/100/selenium-test-automation.png" alt="selenium-test-automation"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>  <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 
 <!---
