@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @karthikTester-Coder
+- 👋 Hi, I’m @karthik
 - 👀 I’m interested in Searching ...
 - 🌱 I’m currently learning AI...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .Manual to Automation.
 - 📫 How to reach me :
  <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/karthiksankar099@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthik-sankar-644518323/)
 - 😄 Pronouns: Techie
@@ -19,3 +19,4 @@ You can click the Preview link to take a look at your changes.
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/KarthikTester-Coder)
+[![KarthikTester-Coder github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthikTester-Coder&bg_color=2a2729&color=3017ee&line=40a932&point=f6f4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
